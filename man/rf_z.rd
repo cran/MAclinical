@@ -31,7 +31,7 @@ A list with the elements:
 	by the function \code{varimp} from the package \code{party}.}
         \item{OOB}{The out-of-bag error of the constructed forest.}
 	}
-    }
+    
 
 \references{
 Boulesteix AL, Porzelius C, Daumer M, 2008.
@@ -40,7 +40,7 @@ Microarray-based classification and clinical predictors: On combined classifiers
 
 
 \author{
-  Anne-Laure Boulesteix (\url{http://www.slcmsr.net/boulesteix}) 
+  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/}) 
    
 }
 \seealso{\code{\link{testclass}}, \code{\link{testclass_simul}}, \code{\link{simulate}}, 

@@ -19,10 +19,10 @@ data set for several iterations.
 }
 
 \details{
-\item When \code{method="CV"}, \code{niter} gives the number of times
+When \code{method="CV"}, \code{niter} gives the number of times
 the whole CV-procedure is repeated. The output matrix has then \code{fold}x\code{niter} rows. When \code{method="MCCV"} or \code{method="bootstrap"}, \code{niter} is simply the number of considered
 learning sets.
-\item Note that \code{method="CV",fold=n} is equivalent to \code{method="LOOCV"}.
+Note that \code{method="CV",fold=n} is equivalent to \code{method="LOOCV"}.
 }
 
 \value{
@@ -38,7 +38,7 @@ Microarray-based classification and clinical predictors: On combined classifiers
 
 
 \author{
-  Anne-Laure Boulesteix (\url{http://www.slcmsr.net/boulesteix})
+  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/})
 
 }
 \seealso{\code{testclass}.}

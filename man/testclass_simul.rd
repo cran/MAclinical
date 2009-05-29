@@ -46,7 +46,7 @@ Microarray-based classification and clinical predictors: On combined classifiers
 }
 
 \author{
-  Anne-Laure Boulesteix (\url{http://www.slcmsr.net/boulesteix})
+  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/})
 }
 
 \seealso{\code{\link{testclass}}, \code{\link{plsrf_xz_pv}}, \code{\link{simulate}},

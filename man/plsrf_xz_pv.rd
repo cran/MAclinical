@@ -57,7 +57,7 @@ Tibshirani R, Efron B, 2002. Pre-validation and inference in microarrays. Stat. 
 }
 
 \author{
-  Anne-Laure Boulesteix (\url{http://www.slcmsr.net/boulesteix}) 
+  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/}) 
    
 }
 \seealso{\code{\link{testclass}}, \code{\link{testclass_simul}}, \code{\link{simulate}}, 
