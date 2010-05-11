@@ -57,10 +57,9 @@ Microarray-based classification and clinical predictors: On combined classifiers
 Boulesteix AL, Strobl C, Augustin T, Daumer D, 2008.
 Evaluating microarray-based classifiers: an overview. Cancer Informatics 6:77-97.
 }
-
 \author{
-  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/})
-
+  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/eng.html}) 
+   
 }
 \seealso{\code{\link{testclass_simul}}, \code{\link{simulate}}, \code{\link{generate.learningsets}}, \code{\link{plsrf_xz_pv}}, \code{\link{plsrf_x_pv}}, \code{\link{plsrf_xz}}, \code{\link{plsrf_x}}, 
 \code{\link{rf_z}}, \code{\link{svm_x}}, \code{\link{logistic_z}}.}

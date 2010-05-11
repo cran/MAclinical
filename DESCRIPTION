@@ -1,10 +1,10 @@
 Package: MAclinical
-Version: 1.0-4
-Date: 2009-05-29
+Version: 1.0-5
+Date: 2010-05-11
 Title: Class prediction based on microarray data and clinical
         parameters
-Author: Anne-Laure Boulesteix <boulesteix@sclmsr.org>.
-Maintainer: Anne-Laure Boulesteix <boulesteix@slcmsr.org>
+Author: Anne-Laure Boulesteix <boulesteix@ibe.med.uni-muenchen.de>.
+Maintainer: Anne-Laure Boulesteix <boulesteix@ibe.med.uni-muenchen.de>
 Depends: R (>= 2.4.1), party, plsgenomics, st, e1071
 Suggests:
 Description: 'Maclinical' implements class prediction using both
@@ -14,6 +14,6 @@ Description: 'Maclinical' implements class prediction using both
         (pre-validated) PLS dimension reduction and random forests.
 License: GPL (>= 2)
 URL: http://cran.r-project.org/web/packages/MAclinical/index.html
-Packaged: Fri May 29 14:12:41 2009; gso
+Packaged: 2012-10-29 08:57:15 UTC; ripley
 Repository: CRAN
-Date/Publication: 2009-05-29 13:19:42
+Date/Publication: 2012-10-29 08:57:15
